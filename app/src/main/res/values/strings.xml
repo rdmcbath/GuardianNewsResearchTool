@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Guardian News Research</string>
+    <string name="keyword">enter keyword</string>
+    <string name="search">Search</string>
+    <string name="headline">Headline</string>
+    <string name="section">Section</string>
+    <string name="date">Date Published</string>
+    <string name="news">NewsAdapter</string>
+    <string name="no_connection">No internet connection found.</string>
+    <string name="no_news">No news found.</string>
+    <string name="api_key">e405cb3e-2fe8-40c8-ac4d-38eed81dd19b</string>
+
+    <!--for preferences-->
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">NewsFeed Settings</string>
+
+    <!-- Strings for order-by preference settings: default is order by newest [CHAR LIMIT=20] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_date_value</string>
+
+    <!-- Strings for order-by relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Strings for order-by most recent date option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_date_label">Newest</string>
+    <string name="settings_order_by_most_recent_date_value" translatable="false">newest</string>
+    <string name="thumbnail_of_image">Thumbnail of image</string>
+
+
+</resources>
